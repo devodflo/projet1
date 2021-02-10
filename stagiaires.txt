@@ -1,7 +1,13 @@
+#Eleves:
 Fabrice
 Olivier
 Majid
 toto
 leo
 rayman
+#Formateurs:
 bruno
+david
+hervé
+damien
+
